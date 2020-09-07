@@ -1,0 +1,7 @@
+# Scala / SBT
+target
+*.class
+
+# IDEA
+*.iml
+.idea
